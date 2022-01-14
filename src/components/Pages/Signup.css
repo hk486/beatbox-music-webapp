@@ -1,0 +1,34 @@
+.login{
+    display: grid;
+    place-items: center;
+    height: 70%;
+    /* background-color: #f2f2f2; */
+}
+
+/* .login__container >img{
+    object-fit: contain;
+    height: 200px;
+}
+
+.login__container{
+    display: flex;
+    flex-direction: column; 
+}  */
+/* .login > label {
+    margin-bottom: 1px;
+} */
+.login > input {
+    height: 40%;
+    width: 50%;
+    border: none;
+    border-radius: 25px;
+}
+
+.main {
+    height: 80vh;
+    width: 50vw;
+        
+    background-color: #f2f2;
+    margin-top: 10vh;
+    margin-left: 25vw;
+}
